@@ -15,10 +15,10 @@ metadata:
   site_subtitle_1: Photos by Alex Johnstone
   site_subtitle_2: ''
   site_description: |
-    Welcome to my site of favourite photos 
+    Welcome to my site of favourite photos
   site_email: alex@alexjj.com
   site_social_url: ''
-  site_icon_svg: /assets/uploadsassets/icons/favicon.svg
+  site_icon_svg: /assets/icons/favicon.svg
   site_icon_png: ''
   site_ga4_id: ''
   seo:
