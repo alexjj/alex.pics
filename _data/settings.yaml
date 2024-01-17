@@ -18,14 +18,12 @@ metadata:
     Welcome to my site of favourite photos
   site_email: alex@alexjj.com
   site_social_url: ''
-  site_icon_svg: /assets/icons/favicon.svg
+  site_icon_svg: /assets/uploads/assets/icons/favicon.svg
   site_icon_png: ''
   site_ga4_id: ''
   seo:
-    site_title: Halide - Jamstack portfolio theme
-    site_description: >-
-      A customizable, minimalist portfolio website designed for photographers
-      and still image creators.
+    site_title: alex.pics
+    site_description: Welcome to my site of favourite photos
     no_index: false
 theme:
   theme_layout:
