@@ -10,7 +10,7 @@ config:
     Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"
 metadata:
-  site_url: 'https://chickin-lickin.netlify.app'
+  site_url: 'https://alex.pics'
   site_title: alex.pics
   site_subtitle_1: Photos by Alex Johnstone
   site_subtitle_2: ''
